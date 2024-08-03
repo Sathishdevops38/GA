@@ -11,4 +11,4 @@ jobs:
       - name: print hello world
         run: echo "Hello world" 
       - name: check system properties
-        run: date && top
+        run: date
